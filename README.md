@@ -76,4 +76,5 @@ Menurut saya ada 2 tools yang agak mudah digunakan yaitu Jenkins dan Github Acti
 ## 7. Projek Company Profile
 Saya membuat company profile nya dengan HTML, CSS dan JS-Jquery <br>
 HTML dan CSS untuk inti web, dan JS (dengan bantuan Jquery) saya gunakan untuk menambah animasi fade in ketika images/iframe muncul. <br>
+note : hanya berjalan baik dalam pc/laptop 🙏
 https://rizki-rianto666.github.io/company-profile-UAS-web-programming/
