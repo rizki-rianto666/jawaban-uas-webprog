@@ -30,6 +30,7 @@ Ilmu Komputer</i></strong>
 middleware ini bertindak sebagai perantara atau jembatan agar integrasi dan komunikasi antara komponen atau sistem yang beda dapat terjalin<br>
 
 | Keuntungan Penerapan Middleware |
+|---------------------------------|
 | Mampu integrasi antara sistem dengan beda bahasa pemrograman, sehingga bisa berkolaborasi antar bahasa pemrograman ini |
 | Merupakan infrastruktur sofrware yang bisa di gunakan kembali |
 | Dengan middleware pengembangan aplikasi jadi bisa lebih cepat karena bisa menggunakan kembali komponenen-komponen dan terdapat services yang sudah teruji |
